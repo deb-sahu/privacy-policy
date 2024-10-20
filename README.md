@@ -58,7 +58,7 @@ As we do not collect or store any user data, we have no data retention or deleti
 
 ## 8. Legal Compliance
 
-**Dexter - Password Manager** complies with applicable data privacy laws, including but not limited to the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA), as far as applicable to an app that does not collect or process personal data.
+**Dexter - Password Manager** complies with applicable data privacy laws, including but not limited to the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA), as far as applicable to an app that does not collect or process personal data. For children, we comply with **COPPA** (Children's Online Privacy Protection Act) and all relevant data protection laws.
 
 By using this app, users acknowledge that no personal data is collected or processed, and they agree to hold the developer harmless for any legal claims relating to data privacy or breaches as a result of negligence or misuse by the user.
 
@@ -74,7 +74,10 @@ The app does not provide any warranty, express or implied, regarding the protect
 
 ## 10. Children’s Privacy
 
-**Dexter - Password Manager** does not target or cater to children under 13 years of age. No personal or sensitive data is collected from users, including children. If you are under 13, you should not use this app.
+**Dexter - Password Manager** do not have restrictions for children under 13 years of age. No personal or sensitive data is collected from users, including children. If you are under 13, you should use this app under parental supervision.
+- We do **not** collect any personal information from children under 13 with or without parental consent.
+- Children under 13 can use **Dexter - Password Manager** under parental supervision. We adhere strictly to the **Children’s Online Privacy Protection Act (COPPA)** and **Google Play’s Families Policy**, ensuring no unauthorized data collection from minors.
+- We do not collect any sensitive information such as location, device ID, or data that could personally identify a child.
 
 ---
 
